@@ -1,38 +1,46 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
-== Intelligent perception, control, and analysis lab (Ipca-lab)
+== Advanced Control and Robotics Laboratory (ACRL)
 
 
-Intelligent perception, control, and analysis lab is directed by Prof. Wen-An Zhang and Prof. Xiang Qiu at the Department of Control science and Engineering, College of Information Engineering, 
-Zhejiang University of Technology. We focus on intelligent sensing, control and learning for networked control systems. Current research interests contain networked motion control, 
-active disturbance rejection control, fault-tolerant control, prognostics and health managementinformation.
-
-~~~
-{}{img_left}{photos/team3.jpg}{alt text}{480px}{320px}
-~~~
+Advanced Control and Robotics Laboratory (ACRL) is directed by 
+Profs. Youwu Du, Bo Li, and Junjie Zhao at the School of Electrical and Information Engineering,
+Jiangsu University of Technology, Changzhou 213001, Jiangsu, China.
+We focus on control theory and its application, artificial intelligence, and robot control. Current research interests include disturbance estimation and rejection, event-triggered control, active disturbance rejection control, finite-time control, Markov system, and robotic control.
 
 ~~~
-{}{img_left}{photos/team4.jpg}{alt text}{480px}{280px}
+{}{img_left}{photos/group_nanshan_2023.jpg}{alt text}{480px}{320px}
 ~~~
 
 ~~~
-{}{img_left}{photos/team1.jpg}{alt text}{480px}{340px}
+{}{img_left}{photos/group_biye_2024.jpg}{alt text}{480px}{280px}
+~~~
+
+~~~
+{}{img_left}{photos/group_nanshan_2023_2.jpg}{alt text}{480px}{340px}
 ~~~
 
 == News
 
 ~~~
-- \[2023.11\]Our paper “Privacy-preserving federated learning for power transformer fault diagnosis with unbalanced data” was accepted by IEEE Transactions on Industrial Informatics! 
-- \[2023.08\]Doctor Wu was awarded the Chinese Goverment Scholarship to pursue study in Japan as a visiting scholar.
-- \[2023.07\]Our paper “Bearing fault diagnosis with incomplete training data: Fault data with partial diameters” was accepted by IEEE Transactions on Automation Science and Engineering!
-- \[2023.01\]Our paper “Wavelet packet decomposition-based multiscale CNN for fault diagnosis of wind turbine gearbox” was published in IEEE Transactions on Cybernetics! 
-- \[2022.09\]Doctor Wu won youth science fund project of NSFC in 2022.
-- \[2022.01\]Our paper “Online modeling of the CNC engraving system with dead-zone input nonlinearity” was published in IEEE Transactions on Industrial Electronics! 
-- \[2021.01\]Our paper “False data injection attack detection for industrial control systems based on both time- and frequency-domain analysis of sensor data” was published in IEEE Internet of Things Journal! 
-
-
+- \[2024.12\]Prof. Du have participated in the Joint International Conference of the 5th AGILEHAND Plenary Meeting & 2024 IEEE/CAA Journal of Automatica Sinica Conference (APM&JAS 2024) as the local arrangement 
+chair in Tokyo, Japan, held from 2 to 6 in December 2024.
+- \[2024.10\]Prof. Du published a paper entitled “Design of cascade equivalent-input-disturbance estimator for control system under high-frequency noise” in IEEE Transactions on Cybernetics.
+- \[2024.08\]Graduate student Tao Yang published a paper titled “An enhanced equivalent input disturbance approach to current control of PMSM with periodic and aperiodic disturbances" in Science China Information Sciences.
+- \[2024.05\]One of our research paper has been indexed as an ESI highly cited paper (IEEE Transactions on Industrial Electronics, 70(1), 855-865, 2023).
+- \[2023.12\]Prof. Du was awarded Leading Innovative Talent Introduction and Cultivation Program of Changzhou under Grant CQ20230079.
+- \[2023.11\]One of our research paper was awarded Second Prize of the Seventeenth Changzhou Outstanding Academic Papers in Natural Science.
+- \[2023.10\]Graduate student Jiahao Chen published a conference paper and the paper was awarded Best Paper Award in 2023 IEEE International Conference on Unmanned Systems.
+- \[2023.06\]Prof. Du was awarded the Jiangsu Goverment Scholarship to pursue study in Tokyo University of Technology, Japan, as a visiting scholar.
+- \[2023.06\]We have organized a special session at the 6th IEEE International Conference on Unmanned Systems.
+- \[2023.06\]Prof. Du was elevated to IEEE Senior Member.
+- \[2023.05\]We have organized a special session at the 6th IEEE International Conference on Industrial Cyber-Physical Systems.
+- \[2023.05\]Prof. Du published a paper entitled “Analysis and robust control of system with uncertainty and disturbance using equivalent-input-disturbance approach” in Journal of the Franklin Institute.
+- \[2023.04\]We have organized a special session at the 12th IEEE Data Driven Control and Learning Systems Conference.
+- \[2023.03\]Prof. Du published a paper entitled “Improving performance of disturbance rejection for nonlinear systems using improved equivalent-input-disturbance approach” in IEEE Transactions on Industrial Informatics.
+- \[2022.12\]Prof. Du was awarded Zhongwu Young Innovative Talent of Jiangsu University of Technology.
 ~~~
 
 == Contact
-Address: Room C314, Information Engineering Building, Zhejiang University of Technology, 288 Liuhe Rd, Xihu District, Hangzhou, China.\n\n
-E-mail: wazhang@zjut.edu.cn, qiuxiang@zjut.edu.cn, qwu@zjut.edu.cn
+Address: Room 60-325, the School of Electrical and Information Engineering, Jiangsu University of Technology, 1801 Zhongwu Rd., Changzhou, Jiangsu, 213001 China.\n\n
+E-mail: duyouwu@just.edu.cn, libonanjing@aliyun.com, junjiezhao2518@sina.com.
 
